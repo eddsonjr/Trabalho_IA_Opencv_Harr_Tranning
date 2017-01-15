@@ -34,6 +34,7 @@ Conteúdo descrito:
 
 - Samples.vec -> arquivo vec (binário das imagens positivas) criados pelo opencv_createsamples.
 
+IMPORTANTE: As imagens podem ser baixadas em (https://dl.dropboxusercontent.com/u/21053003/IA/Imagens.zip) 
 
 
 #Comandos do Opencv
